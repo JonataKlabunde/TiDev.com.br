@@ -16,6 +16,7 @@ comments: false
 
       </div><!-- /.entry-image -->
     {% endif %}
+
     <div class="entry-meta">
       <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>
       {% if site.reading_time %}
@@ -32,6 +33,7 @@ comments: false
       <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
     {% endif %}
   </header>
+
   <div class="entry-content">
     {% if post.content contains "<!-- more -->" %}
         {{ post.content | split:"<!-- more -->" | first % }}
