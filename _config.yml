@@ -1,4 +1,4 @@
-title:            Blog Title
+title:            TiDev
 description:      Describe your website here.
 # put your disqus here
 disqus_shortname:
@@ -19,34 +19,34 @@ url: http://www.tidev.com.br
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Fork'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
-  - title: 'Install'
-    url: '/theme-setup/'
-  - title: 'Tags'
-    url: '/tags'
-  - title: 'Categories'
-    url: '/categories'
-    type: 'categories'
-  - title: 'Favorites'
-    url: '#'
-    submenu:
-      - title: 'Code Highlighter'
-        url: '/intro/code-highlighting-post/'
-      - title: 'Sample Post'
-        url: '/intro/sample-post/'
+  # - title: 'Fork'
+  #   url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
+  # - title: 'Install'
+  #   url: '/theme-setup/'
+  # - title: 'Tags'
+  #   url: '/tags'
+  # - title: 'Categories'
+  #   url: '/categories'
+  #   type: 'categories'
+  # - title: 'Favorites'
+  #   url: '#'
+  #   submenu:
+  #     - title: 'Code Highlighter'
+  #       url: '/intro/code-highlighting-post/'
+  #     - title: 'Sample Post'
+  #       url: '/intro/sample-post/'
 
 # Owner/author information
 owner:
   name:           Jonata Klabunde
   site:           www.tidev.com.br
   avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "Titanium Developer"
   email:          jonata_k@yahoo.com.br
   # Twitter nick for use in Twitter cards and follow button.
-  twitter: aron_bordin # if no twitter in this config, the twitter follow button will be removed
+  twitter: jonata_k # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
-  github: aron-bordin
+  github: JonataKlabunde
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
@@ -55,11 +55,11 @@ twitter:
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
   - title: "github"
-    url: "https://github.com/aron-bordin"
+    url: "https://github.com/JonataKlabunde"
   - title: "linkedin"
-    url: "https://br.linkedin.com/in/aronbordin"
-  - title: "youtube"
-    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
+    url: "https://www.linkedin.com/in/jonata-klabunde-aa27a173?trk=nav_responsive_tab_profile"
+  # - title: "youtube"
+  #   url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
 # Background image to be tiled on all pages
 background:
 
@@ -70,8 +70,8 @@ google_verify:
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-locale:      en_US
+timezone:    America/Sao_Paulo
+locale:      pt_BR
 future:      true
 highlighter: rouge
 markdown:    kramdown
