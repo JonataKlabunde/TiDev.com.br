@@ -9,6 +9,6 @@ Que bom que gostou!, esse blog está aberto a toda a comunidade, vejá a baixo c
 
 ## 1 - Clonando o repositório
 * baixe o repositório
-![imagem](/image/readme_clone_git.png)
+![imagem](/images/readme_clone_git.png)
 
 * discompacte e salve no diretório desejado
