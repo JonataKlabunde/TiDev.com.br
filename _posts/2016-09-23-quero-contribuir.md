@@ -6,20 +6,20 @@ tags: [github,opensource,contribuir]
 ---
 
 
-# O blog
+### O blog
 tidev é um blog voltado para desenvolvedores titanium, facilitando o acesso das informações para você!
 
 <!-- more -->
 
-# onde posso encontralo?
+### onde posso encontralo?
 [www.tidev.com.br](www.tidev.com.br)
 
 [github](https://github.com/JonataKlabunde/TiDev.com.br)
 
-# Gostei! posso colaborar?
+### Gostei! posso colaborar?
 Que bom que gostou!, esse blog está aberto a toda a comunidade, vejá a baixo como pode coloborar!
 
-## 1 - Clonando o repositório
+##### 1 - Clonando o repositório
 * baixe o repositório
 ![clone](/images/readme_clone_git.png)
 
