@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Este é um teste de post
-description: "testando"
-tags: [post teste]
+title: TiDev open source
+description: "Gostou? quer contribuir ? veja como!"
+tags: [github,opensource,contribuir]
 ---
-
-Post Teste =)
