@@ -8,4 +8,7 @@ www.tidev.com.br
 Que bom que gostou!, esse blog está aberto a toda a comunidade, vejá a baixo como pode coloborar!
 
 ## 1 - Clonando o repositório
-![Preview](readme_clone_git.png)
+* baixe o repositório
+![imagem](/image/readme_clone_git.png)
+
+* discompacte e salve no diretório desejado
