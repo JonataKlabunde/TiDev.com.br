@@ -1,22 +1,22 @@
 # O blog
-tidev é um blog voltado para desenvolvedores titanium, facilitando o acesso das informações para você!
+O tidev é um blog voltado para desenvolvedores [Titanium](http://www.appcelerator.org/#titanium), facilitando o acesso das informações para nós!
 
 
-# onde posso encontralo?
-dominio - www.tidev.com.br
-github - https://github.com/JonataKlabunde/TiDev.com.br
+# Onde posso encontra-lo?
+dominio - [www.tidev.com.br](www.tidev.com.br)
+github - [https://github.com/JonataKlabunde/TiDev.com.br](https://github.com/JonataKlabunde/TiDev.com.br)
 
-# Gostei! posso colaborar?
-Que bom que gostou!, esse blog está aberto a toda a comunidade, vejá a baixo como pode coloborar!
+# Gostei! Posso colaborar?
+Que bom que gostou! Esse blog está aberto a toda a comunidade. Veja abaixo como colaborar!
 
 ## 1 - Clonando o repositório
-* baixe o repositório
+* Baixe o repositório
 ![clone](/images/readme_clone_git.png)
 
-* discompacte e salve no diretório desejado
+* Descompacte e salve no diretório desejado
 ![repositorio](/images/readme_repositorio.png)
 
-* altere a url em _config.yml
+* Altere a url em _config.yml
 ![_config.yml](/images/readme_config.png)
 
 * instale o 'Jekyll' [instalação jekyll](https://jekyllrb.com/docs/quickstart/) (via terminal)
@@ -26,9 +26,8 @@ Que bom que gostou!, esse blog está aberto a toda a comunidade, vejá a baixo c
 * Agora abra um navegador com o seguinte link http://localhost:4000
 
 # Criando um post
-para criar um post basta ir no diretório "_post" e criar um novo arquivo com a seguinte nomenclatura "ano-mes-dia-nomedopost.md"
-no diretório de post existe varios exemplos de posts (iniciando com 'examplo') neles você pode encontrar varios exemplos de como
-formatar os posts
+Para criar um post basta ir no diretório "_post" e criar um novo arquivo com a seguinte nomenclatura "ano-mes-dia-nomedopost.md".  
+No diretório de posts você pode encontrar vários exemplos (iniciando com 'exemplo') com diferentes maneiras de como formatar seus posts
 
 * Todo post criado deve ter esta estrutura definida (layout, title, description, tags)
 ![estrutura post](/images/readme_post_estrutura.png)
