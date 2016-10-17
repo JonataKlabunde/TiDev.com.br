@@ -1,10 +1,20 @@
+---
+layout: post
+title: TiDev é open source, contribua!
+description: "Gostou? quer contribuir ? veja como!"
+tags: [github,opensource,contribuir]
+---
+
+
 # O blog
 tidev é um blog voltado para desenvolvedores titanium, facilitando o acesso das informações para você!
 
+<!-- more -->
 
 # onde posso encontralo?
-dominio - www.tidev.com.br
-github - https://github.com/JonataKlabunde/TiDev.com.br
+[www.tidev.com.br](www.tidev.com.br)
+
+[github](https://github.com/JonataKlabunde/TiDev.com.br)
 
 # Gostei! posso colaborar?
 Que bom que gostou!, esse blog está aberto a toda a comunidade, vejá a baixo como pode coloborar!
@@ -31,4 +41,11 @@ no diretório de post existe varios exemplos de posts (iniciando com 'examplo') 
 formatar os posts
 
 * Todo post criado deve ter esta estrutura definida (layout, title, description, tags)
-![estrutura post](/images/readme_post_estrutura.png)
+{% highlight md %}
+---
+layout: post
+title: TiDev é open source, contribua!
+description: "Gostou? quer contribuir ? veja como!"
+tags: [github,opensource,contribuir]
+---
+{% endhighlight %}
