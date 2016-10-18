@@ -6,7 +6,7 @@ tags: [atom,snippets,programação]
 ---
 
 
-Se você é um desenvolvedor Titanium e já é adepto do ["Atom"](https://atom.io/), esse 'post' pode lhe interessar!
+Se você é um desenvolvedor Titanium e já é adepto do ["Atom"](https://atom.io/), esse 'post' pode-lhe interessar!
 
 
 <figure style="text-align: center;" >
@@ -15,19 +15,19 @@ Se você é um desenvolvedor Titanium e já é adepto do ["Atom"](https://atom.i
 
 <!-- more -->
 
-Você gosta de utilizar o auto-complete? saiba que com o ["Atom"](https://atom.io/) é possivel você criar seus trechos de códigos (Snippets), para serem chamados no auto-complete, para criar o seu faça o seguintes passos:
+Você gosta de utilizar o auto-complete? Saiba que com o ["Atom"](https://atom.io/) é possível você criar seus trechos de códigos (Snippets), para serem chamados no auto-complete, para criar o seu faça o seguintes passos:
 
 * Abra o ["Atom"](https://atom.io/), e no menu Atom, selecione o item "Snippets..."
 <figure style="text-align: center;" >
 	<a><img src="/images/posts/2016/10/atom snippet.png" alt="imagem do código"></a>
 </figure>   
 
-* Agora adicione os trechos de códigos abaixos:
+* Agora adicione os trechos de código abaixo:
 
 <!-- PARA JS -->
 {% highlight CoffeeScript %}
 ################
-### para JS ###
+### Para JS ###
 ################
 '.source.js':
   'function(e){}':
@@ -46,7 +46,7 @@ Você gosta de utilizar o auto-complete? saiba que com o ["Atom"](https://atom.i
 <!-- PARA XML -->
 {% highlight CoffeeScript %}
 ################
-### para XML ###
+### Para XML ###
 ################
 '.text.alloyxml':
   'initXml':
@@ -66,7 +66,7 @@ Você gosta de utilizar o auto-complete? saiba que com o ["Atom"](https://atom.i
 <!-- PARA TSS -->
 {% highlight CoffeeScript %}
 ################
-### para TSS ###
+### Para TSS ###
 ################
 '.source.css.tss':
   'minhaClass':
@@ -81,7 +81,12 @@ Você gosta de utilizar o auto-complete? saiba que com o ["Atom"](https://atom.i
     rightLabelHTML: '<span style="color:#2ef541">Personalizado</span>'
 {% endhighlight %}
 
-* Após adicionar, salve o arquivo e pronto! já é possivel fazer a chamada do seu código.
+* Após adicionar, salve o arquivo e pronto! Já é possivel fazer a chamada do seu código.
+
+## Algumas explicações
+* O simbolo ``` "$1", "$2" ``` (sifrão + numero) representa a ordem em que o 'cursor' será posicionado ao dar a tecla 'Tab'.
+* ``` id='${1:index}' ``` nesse trecho de código esta definido	 'index' como valor inicial e as chaves '{}' irão selecionar o conteúdo quando o cursor for posicionado.
 
 
-Para mais detalhes vejá a [documentação dos snippets](https://atom.io/packages/snippets)
+
+Para mais detalhes veja a [documentação dos snippets](https://atom.io/packages/snippets)
