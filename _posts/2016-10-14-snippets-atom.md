@@ -15,7 +15,7 @@ Se você é um desenvolvedor Titanium e já é adepto do ["Atom"](https://atom.i
 
 <!-- more -->
 
-Você gosta de utilizar o auto-complete? Saiba que com o ["Atom"](https://atom.io/) é possível você criar seus trechos de códigos (Snippets), para serem chamados no auto-complete, para criar o seu faça o seguintes passos:
+Você gosta de utilizar o auto-complete? Saiba que com o ["Atom"](https://atom.io/) é possível também criar seus próprios trechos de códigos (Snippets) para serem chamados no auto-complete. Para criar seus Snippets você só precisa seguir os seguintes passos:
 
 * Abra o ["Atom"](https://atom.io/), e no menu Atom, selecione o item "Snippets..."
 <figure style="text-align: center;" >
@@ -85,8 +85,8 @@ Você gosta de utilizar o auto-complete? Saiba que com o ["Atom"](https://atom.i
 
 ## Algumas explicações
 * O simbolo ``` "$1", "$2" ``` (sifrão + numero) representa a ordem em que o 'cursor' será posicionado ao dar a tecla 'Tab'.
-* ``` id='${1:index}' ``` nesse trecho de código esta definido	 'index' como valor inicial e as chaves '{}' irão selecionar o conteúdo quando o cursor for posicionado.
+* ``` id='${1:index}' ``` nesse trecho de código esta definido	'index' como valor inicial e as chaves '{}' irão selecionar o conteúdo quando o cursor for posicionado.
 
 
 
-Para mais detalhes veja a [documentação dos snippets](https://atom.io/packages/snippets)
+Para mais detalhes veja a [documentação dos snippets](https://atom.io/packages/snippets).
