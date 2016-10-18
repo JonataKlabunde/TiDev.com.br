@@ -2,19 +2,27 @@
 layout: post
 title: "Snippets - Crie seus próprios fragmentos de código!"
 description: "Se você é um desenvolvedor Titanium e já é adepto do Atom, esse 'post' pode lhe interessar!"
-tags: [atom,snippets]
+tags: [atom,snippets,programação]
 ---
 
 
-Se você é um desenvolvedor Titanium e já é adepto do Atom, esse 'post' pode lhe interessar!
+Se você é um desenvolvedor Titanium e já é adepto do ["Atom"](https://atom.io/), esse 'post' pode lhe interessar!
 
 
 <figure style="text-align: center;" >
-	<a><img src="/images/posts/2016/10/snippet.png" alt="imagem do código"></a>
+	<a><img src="/images/posts/2016/10/snippet.gif" alt="imagem do código"></a>
 </figure>   
 
 <!-- more -->
 
+Você gosta de utilizar o auto-complete? saiba que com o ["Atom"](https://atom.io/) é possivel você criar seus trechos de códigos (Snippets), para serem chamados no auto-complete, para criar o seu faça o seguintes passos:
+
+* Abra o ["Atom"](https://atom.io/), e no menu Atom, selecione o item "Snippets..."
+<figure style="text-align: center;" >
+	<a><img src="/images/posts/2016/10/atom snippet.png" alt="imagem do código"></a>
+</figure>   
+
+* Agora adicione os trechos de códigos abaixos:
 
 <!-- PARA JS -->
 {% highlight CoffeeScript %}
@@ -72,3 +80,8 @@ Se você é um desenvolvedor Titanium e já é adepto do Atom, esse 'post' pode 
     description: 'Class Exemplo'
     rightLabelHTML: '<span style="color:#2ef541">Personalizado</span>'
 {% endhighlight %}
+
+* Após adicionar, salve o arquivo e pronto! já é possivel fazer a chamada do seu código.
+
+
+Para mais detalhes vejá a [documentação dos snippets](https://atom.io/packages/snippets)
