@@ -61,10 +61,11 @@ V8 foi atualizado para a última versão 'Long Term Support' (LTS) [(TIMOB-19790
 Nota, você também pode precisar editar o código Java para remover referências e depreciar as classes que foram removidos no 6.0.0 (como TiContext).
 
 ## Outros Itens notáveis ​​na liberação
- Aqui estão mais algumas características notáveis ​​e melhorias desta versão:
-  * Capacidade de ativar Multi-dex para evitar o limite de 65k método durante Android constrói
-  * Capacidade para aplicativos usando <use-jscore-framework> para usar Studio debugger. No iOS, você vai precisar definir True para funcionar. Além disso, você pode usar o Safari para debugar seu aplicativo.
-  * Suporte para 'iphone 7 haptic engine api'
+Aqui estão mais algumas características notáveis ​​e melhorias desta versão:
+
+ * Capacidade de ativar Multi-dex para evitar o limite de 65k método durante Android constrói
+ * Capacidade para aplicativos usando <use-jscore-framework> para usar Studio debugger. No iOS, você vai precisar definir True para funcionar. Além disso, você pode usar o Safari para debugar seu aplicativo.
+ * Suporte para 'iphone 7 haptic engine api'
 
 ## Problemas conhecidos
   * Hyperloop: Erros durante a execução de projeto com visualização ao vivo e hyperloop habilitados [(TIMOB-23761)](https://jira.appcelerator.org/browse/TIMOB-23761)
