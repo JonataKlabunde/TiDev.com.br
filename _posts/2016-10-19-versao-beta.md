@@ -12,7 +12,7 @@ tags: [Beta Release]
 ## Hoje, publicamos os seguintes lançamentos
  * Versão Beta para Titanium SDK 6.0.0
  * Versão Beta para Appcelerator CLI 6.0.0
- * Versão Beta para Appcelerator Estúdio 4.8.0
+ * Versão Beta para Appcelerator Studio 4.8.0
  * lançamento para Hyperloop 2.0.0 GA
  * lançamento para Hyperloop 1.2.8 GA
 
@@ -77,7 +77,7 @@ Aqui estão mais algumas características notáveis ​​e melhorias desta vers
 
  * [SDK Titanium 6.0.0 Beta Release Note](http://docs.appcelerator.com/platform/latest/#!/guide/Titanium_SDK_6.0.0.Beta_Release_Note)
 
- * [Appcelerator Estúdio 4.8.0 Beta Release Note](http://docs.appcelerator.com/platform/latest/#!/guide/Studio_4.8.0.Beta_Release_Note)
+ * [Appcelerator Studio 4.8.0 Beta Release Note](http://docs.appcelerator.com/platform/latest/#!/guide/Studio_4.8.0.Beta_Release_Note)
 
  * [Appcelerator CLI 6.0.0 Beta Release Note](http://docs.appcelerator.com/platform/latest/#!/guide/Appcelerator_CLI_6.0.0.Beta_Release_Note)
 
@@ -104,8 +104,8 @@ Para reverter:
 
  {% highlight md %}[sudo] npm install -g appcelerator{% endhighlight %}
 
-## Atualização Appcelerator Estúdio
- Obter a versão beta do [Estúdio alterando o tipo de atualização para versão beta](http://docs.appcelerator.com/platform/latest/#!/guide/Changing_the_Update_Type-section-30083272_ChangingtheUpdateType-ChangingtheUpdateType) e, em seguida, verificar se há atualizações.
+## Atualização Appcelerator Studio
+ Obter a versão beta do [Studio alterando o tipo de atualização para versão beta](http://docs.appcelerator.com/platform/latest/#!/guide/Changing_the_Update_Type-section-30083272_ChangingtheUpdateType-ChangingtheUpdateType) e, em seguida, verificar se há atualizações.
 
  Para reverter/excluir a versão beta e [baixar e instalar a última versão estável](https://platform.appcelerator.com/#/product/studio).
 
