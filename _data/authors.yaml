@@ -1,0 +1,28 @@
+aletaschner:
+ name:           Alexandre Taschner
+ site:           http://aletaschner.info/
+ avatar:         images/authors/aletaschner.jpg
+ bio:            "Fullstack Web Developer e entusiasta de desenvolvimento Mobile"
+ email:          eumesmo@aletaschner.info
+ # para redes sociais sem ser o twitter, levar em consideração que o título será utilizado como classe do font-awesome
+ social:
+  - url: https://facebook.com/aletaschner
+    title: facebook
+  - url: https://linkedin.com/aletaschner
+    title: linkedin
+ twitter: aletaschner 
+ github: aletaschner
+
+#  - outro -------------------------------------------------------------------------------
+
+jonata_k:
+ name:           Alexandre Taschner
+ site:           http://aletaschner.info/
+ avatar:         images/avatar.jpg
+ bio:            "Fullstack Web Developer e entusiasta de desenvolvimento Mobile"
+ email:          eumesmo@aletaschner.info
+ # Twitter nick for use in Twitter cards and follow button.
+ twitter: aletaschner # if no twitter in this config, the twitter follow button will be removed
+ # GitHub nick for use in follow button in author block.
+ github: aletaschner
+#  - outro -------------------------------------------------------------------------------
