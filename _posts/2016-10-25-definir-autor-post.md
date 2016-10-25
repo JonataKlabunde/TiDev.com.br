@@ -10,7 +10,7 @@ author : aletaschner
 	<a><img src="/images/posts/2016/10/autor.png" alt="Imagem do autor"></a>
 </figure>  
 
-# Divulgue seus dados como autor!
+## Divulgue seus dados como autor!
 
 <!-- more -->
 
