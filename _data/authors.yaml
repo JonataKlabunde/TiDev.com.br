@@ -13,23 +13,10 @@ aletaschner:
  twitter: aletaschner
  github: aletaschner
 
-
 #  - outro -------------------------------------------------------------------------------
-jonata_k:
- name:           Alexandre Taschner
- site:           http://aletaschner.info/
- avatar:         images/avatar.jpg
- bio:            "Fullstack Web Developer e entusiasta de desenvolvimento Mobile"
- email:          eumesmo@aletaschner.info
- # Twitter nick for use in Twitter cards and follow button.
- twitter: aletaschner # if no twitter in this config, the twitter follow button will be removed
- # GitHub nick for use in follow button in author block.
- github: aletaschner
-#  - outro -------------------------------------------------------------------------------
-
 chmiiller:
  name:           Carlos Henrique Zinato
- site:           -
+ site:
  avatar:         images/authors/chmiiller.jpg
  bio:            "iOS/Android developer & Game Designer 🇳🇱"
  email:          carlosh.lz@hotmail.com
