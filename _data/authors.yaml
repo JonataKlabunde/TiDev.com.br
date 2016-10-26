@@ -26,3 +26,15 @@ jonata_k:
  # GitHub nick for use in follow button in author block.
  github: aletaschner
 #  - outro -------------------------------------------------------------------------------
+
+chmiiller:
+ name:           Carlos Henrique Zinato
+ site:           -
+ avatar:         images/authors/chmiiller.jpg
+ bio:            "iOS/Android developer & Game Designer 🇳🇱"
+ email:          carlosh.lz@hotmail.com
+ # Twitter nick for use in Twitter cards and follow button.
+ twitter: chmiiller # if no twitter in this config, the twitter follow button will be removed
+ # GitHub nick for use in follow button in author block.
+ github: chmiiller
+#  - outro -------------------------------------------------------------------------------
