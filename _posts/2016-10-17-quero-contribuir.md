@@ -37,9 +37,9 @@ Que bom que gostou! Esse blog está aberto a toda a comunidade. Veja abaixo como
 
 # Criando um post
 Para criar um post basta ir no diretório "_post" e criar um novo arquivo com a seguinte nomenclatura "ano-mes-dia-nomedopost.md".  
-No diretório de posts você pode encontrar vários exemplos (iniciando com 'exemplo') com diferentes maneiras de como formatar seus posts
+No diretório de posts você pode encontrar vários exemplos (iniciando com 'exemplo') com diferentes maneiras de como formatar seus posts.   
 
-* Todo post criado deve ter esta estrutura definida: (layout, title, description, tags)
+Todo post criado deve ter esta estrutura definida (layout, title, description, tags):   
 {% highlight md %}
 ---
 layout: post
@@ -47,4 +47,17 @@ title: TiDev é open source, contribua!
 description: "Gostou? Quer contribuir? Veja como:"
 tags: [github,opensource,contribuir]
 ---
-{% endhighlight %}
+{% endhighlight %}   
+
+Caso queira adicionar uma imagem legal em seu post aqui vai uma lista de sites que oferecem fotos boas e gratuitas🎉:   
+
+* [Unsplash](https://unsplash.com)   
+* [Picography](http://picography.co)   
+* [Pixabay](https://pixabay.com)   
+* [Street will](http://streetwill.co)   
+* [Death to the stock photo](http://join.deathtothestockphoto.com)   
+* [Jaymantri](http://jaymantri.com)   
+* [Realistic shots](http://realisticshots.com)   
+* [Life of pix](http://www.lifeofpix.com)   
+* [Startup stock photos](http://startupstockphotos.com)   
+
